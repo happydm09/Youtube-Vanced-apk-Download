@@ -1,5 +1,4 @@
-# Youtube-Vanced-apk-Download
-Youtube Vanced 앱을 다운 받을 수 있습니다.
+# Youtube Vanced apk Download
 
 Youtube Vanced는 광고 제거한 유튜브 앱입니다.
 기존 유튜브 프리미엄의 몇 몇 기능을 무료로 사용할 수 있습니다.
