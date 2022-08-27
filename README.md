@@ -9,9 +9,11 @@ Youtube Vanced는 광고 제거한 유튜브 앱입니다.
 3. 사용시 불이익이 따를 수 있습니다.
 -------------------------------------
 
-⬇️다운로드 링크⬇️
+⬇️다운로드 링크⬇️ <br>
 [Youtube Vanced apk 다운로드(.zip)](https://github.com/happydm09/File/files/9438170/Youtube.Vanced.apk.zip) <br>
 [Vanced Manager apk 다운로드(.zip)](https://github.com/happydm09/File/files/9438172/Vanced.Manager.apk.zip) <br>
 [Vanced MicroG Settings 다운로드(.zip)](https://github.com/happydm09/File/files/9438175/Vanced.MicroG.Settings.apk.zip)
 
 <h5>Apk Combo에서 다운 받은 앱을 파일 관리자+의 공유 기능으로 apk로 만들었습니다.</h5>
+
+<h5> Vanced Manager는 굳이 설치 안 하셔도 됩니다. Youtube Vanced는 필수고 Vanced MicroG Settings(구글 계정 서비스)는 선택 입니다.
